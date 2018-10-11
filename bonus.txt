@@ -1,0 +1,4 @@
+POIs could possibly refer to corporate locations, 
+and records to the individuals detected around the vicinity of the corporate locations.
+The problem then is find which corporate location is inteded by each individual and what is the target of each individual user, 
+and to find the propularity of each corporate location.
